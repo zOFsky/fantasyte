@@ -1,0 +1,25 @@
+h4 {
+    color: blue;
+    border: 5px;
+    border-color: whitesmoke;
+}
+nav {
+    background-color: aquamarine
+}
+p {
+    border: 1px solid;
+    margin: 10px 50px 5px 5px;
+    border-color: antiquewhite;
+    color: rgb(0, 255, 213);
+    display: block;
+    margin-right: 80px;
+    padding: 5px 5px 5px 5px;
+}
+body {
+    background-image: url(cover.jpg);
+    background-size: cover;
+    back
+}
+.parag {
+    border-color: black;
+}
